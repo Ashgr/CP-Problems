@@ -11,8 +11,7 @@
  */
  
  /*
- thanks to the fact : every element on left of root is smaller than the root , every element on right of root is greater than the root;
- so InOrder trversing algorithm will help us to get the k-th element without sorting the array of element ;
+
  */
 class Solution {
 public:
